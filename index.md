@@ -1,3 +1,3 @@
 ---
-title: Welcome to ctsu first excise blog!
+title: Welcome to ctsu first exercise blog!
 ---
